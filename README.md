@@ -1,4 +1,4 @@
-# Smart Age Solutions- Shopify Developer Test
+# Smart Age Solutions- Shopify Developer Test Thema
 
 Smart Age is a full-service digital marketing agency with offices in New York and Rio de Janeiro. We work in constant evolution to keep up with the technological landscape, helping brands and businesses create a successful digital future.
 
